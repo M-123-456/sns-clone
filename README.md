@@ -1,4 +1,4 @@
-## React Calculator App:
+## React SNS Clone App:
 
 #### 1. Install the project
     `npm install`
